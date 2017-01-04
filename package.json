@@ -1,0 +1,15 @@
+{
+  "name": "validations",
+  "version": "0.0.1",
+  "keywords": [
+    "util",
+    "validation"
+  ],
+  "main": "lib/index.js",
+  "author": "lizhaogai",
+  "contributors": [],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
