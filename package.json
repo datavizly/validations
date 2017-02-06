@@ -5,7 +5,7 @@
     "util",
     "validation"
   ],
-  "main": "lib/validate.js",
+  "main": "lib/validator.js",
   "author": "lizhaogai",
   "contributors": [],
   "dependencies": {
